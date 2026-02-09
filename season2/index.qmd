@@ -1,0 +1,10 @@
+---
+title: "Season 2"
+listing:
+  contents: /s2*.qmd
+  sort: "date desc"
+  type: default
+  categories: true
+---
+
+Welcome to the second season of The Chosen 

@@ -1,0 +1,77 @@
+---
+title: "Episode 2"
+subtitle: "Shabbat"
+description: "I was one way... and now I am completely different"
+date: 2026-01-21
+image: img/s1e2.jpg
+categories:
+  - season1
+  - discussion
+---
+
+## :book: Scripture {#sec-scripture}
+
+:::{.callout-note}
+### [Genesis 2:1-3](https://www.bible.com/bible/59/GEN.2.1-3)
+^1^ Thus the heavens and the earth were finished, and all the host of them. ^2^ And on the seventh day God finished his work that he had done, and he rested on the seventh day from all his work that he had done. ^3^ So God blessed the seventh day and made it holy, because on it God rested from all his work that he had done in creation.
+:::
+
+:::{.callout-note}
+### [Exodus 20:8-11](https://www.bible.com/bible/59/EXO.20.8-11)
+^8^ Remember the Sabbath day, to keep it holy. ^9^ Six days you shall labor, and do all your work, ^10^ but the seventh day is a Sabbath to the Lord your God. On it you shall not do any work, you, or your son, or your daughter, your male servant, or your female servant, or your livestock, or the sojourner who is within your gates. ^11^ For in six days the Lord made the heavens and the earth, the sea, and all that is in them, and rested on the seventh day. Therefore the Lord blessed the Sabbath day and made it holy.
+:::
+
+:::{.callout-note}
+### [Deuteronomy 5:15](https://www.bible.com/bible/59/DEU.5.15)
+^15^ You shall remember that you were a slave in the land of Egypt, and the LORD your God brought you out from there with a mighty hand and an outstretched arm. Therefore the LORD your God commanded you to keep the Sabbath day.
+:::
+
+[Download Bible App Here](https://www.bible.com/app)
+
+## :performing_arts: Main characters {#sec-characters}
+
+- **Quintus** the Praetor of Capernaum (aka "dominus", i.e. "lord" or "master")
+- **Gaius** the centurion ("Primi Ordine")
+- **Nicodemus**, **Matthew**, **Mary Magdalene**, **Simon**, **Andrew**
+- **James** and **John**, the fishermen
+
+:::{.callout-warning appearance="simple" icon=false}
+:movie_camera: Watch the [Episode 2](https://watch.thechosen.tv/video/184683594335)
+:::
+
+## :speech_balloon: Quotes {#sec-quotes}
+
+> "Are you saying I made a bad deal?" -- Quintus
+
+> "Who is responsible for suppressing our worship now? I fear I know the answer." -- Nicodemus
+
+> "I--I don't understand it myself. But here is what I can tell you. I was one way... and now I am completely different. And the thing that happened in between... was Him. So, yes, I will know Him for the rest of my life." -- Mary Magdalene
+
+:::{.callout-tip}
+
+**_Shabbat_** is the Jewish term for the Sabbath. It is observed from sundown on Friday to sundown on Saturday. **Shabbat** traditionally begins with a special meal on Friday evening in Jewish homes, and it is a day set apart for rest, during which *no work is done*.
+
+:::
+
+## :handshake: Discussion {#sec-discussion}
+
+1. As you watched this episode, which characters or moments stood out to you the most, and why? What was it about those scenes or people that captured your attention?
+2. Read [Genesis 2:1-3](#sec-scripture) again. Why do you think an all-powerful God chose to rest on the seventh day? What does this tell us about the purpose and meaning of Shabbat?
+3. What stood out to you about the traditional Shabbat observance shown in the episode — from [Eshet Chayil](#sec-reading) through the prayers Mary recites? What did these practices communicate to you about Shabbat?
+4. Why do you think Nicodemus was so shaken by the report that Mary Magdalene had been seen restored and in her right mind? What might this have challenged in him?
+5. Mary hosts her first Shabbat meal after her healing. How did you perceive her turning toward God and extending kindness and hospitality to others? What did that moment reveal about her transformation?
+6. Matthew says his father told him he has no son. How did you experience Matthew’s Shabbat meal — alone, with only his dog? What do you imagine life feels like for Matthew, one of the richest men in Capernaum?
+7. How did you respond to the Gandalf-like appearance of Jesus, when He unexpectedly invites his disciples and Himself into Mary’s Shabbat observance? What does this moment suggest about welcoming strangers and opening our homes, and lives, to interruption?
+
+## :thought_balloon: Food for thought {#sec-thought}
+
+1. Modern rest is often about recovery or escape, while Shabbat was commanded as a rhythm of reflection and reorientation. What does this tell you about how God shapes human attention, freedom, and priorities?
+2. The seventh day was set apart to celebrate God completing His work. What kinds of practices honor the day of God’s rest, and what kinds undermine it? What, as Nicodemus puts it, “suppresses our worship now”?
+3. During the Passover Seder, a place is intentionally left open for Elijah, with a moment set aside to open the door in expectation of his arrival. How does this tradition challenge the way you think about hospitality and those you consider “strangers”?
+
+
+## :bookmark_tabs: Further reading {#sec-reading}
+
+- A woman of valor ([Eshet Chayil](https://jwa.org/node/23712)): [Proverbs 31:10-31](https://www.bible.com/bible/59/PRO.31.10-31.ESV)
+- Shabbat and true worship: [1 Samuel 15:10–23](https://www.bible.com/bible/59/1SA.15.10-23.ESV); [Isaiah 1:9–20](https://www.bible.com/bible/59/ISA.1.9-20.ESV); [Jeremiah 7:21–28](https://www.bible.com/bible/59/JER.7.21-28.ESV); [Amos 4:1–13](https://www.bible.com/bible/59/AMO.4.1-13.ESV); [Isaiah 56:1–8](https://www.bible.com/bible/59/ISA.56.1-8.ESV)
+- Sunday in the New Testament: [Matthew 28:1–10](https://www.bible.com/bible/59/MAT.28.1-10.ESV); [Mark 16:1–8](https://www.bible.com/bible/59/MRK.16.1-8.ESV); [Luke 24:1–12](https://www.bible.com/bible/59/LUK.24.1-12.ESV); [John 20:1–19](https://www.bible.com/bible/59/JHN.20.1-19.ESV); [Acts 20:7](https://www.bible.com/bible/59/ACT.20.7.ESV).

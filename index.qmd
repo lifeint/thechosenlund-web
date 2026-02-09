@@ -1,0 +1,40 @@
+---
+title: ""
+page-layout: full
+toc: false
+format:
+  html:
+    css: index.scss
+---
+
+::: {style="color: white;"}
+
+
+# Watch. Reflect. Discuss.
+
+*A small-group series exploring the life of Jesus Christ through*
+
+![](img/thechosenlogo.png){height=7em}
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+
+Every second Wednesday · 7:30–9:00 PM
+
+Starting Ash Wednesday, February 18
+
+Finn auditorium, Domkyrkoforum, Lund
+
+Free · No registration
+
+Come and see.
+
+:::

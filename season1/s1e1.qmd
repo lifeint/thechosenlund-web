@@ -1,0 +1,73 @@
+---
+title: "Episode 1"
+subtitle: "I have called you by name"
+description: "You are mine"
+date: 2026-01-14
+image: img/s1e1.jpg
+categories:
+  - season1
+  - discussion
+---
+
+## :book: Scripture {#sec-scripture}
+
+:::{.callout-note}
+### [Isaiah 43:1-3](https://www.bible.com/bible/59/ISA.43.1-3)
+
+| ^1^ But now thus says the Lord,
+| he who created you, O Jacob,
+| he who formed you, O Israel:
+| “Fear not, for I have redeemed you;
+| I have called you by name, you are mine.
+| ^2^ When you pass through the waters, I will be with you;
+| and through the rivers, they shall not overwhelm you;
+| when you walk through fire you shall not be burned,
+| and the flame shall not consume you.
+| ^3^ For I am the Lord your God,
+| the Holy One of Israel, your Savior."
+
+:::
+
+[Download Bible App Here](https://www.bible.com/app)
+
+## :performing_arts: Main characters {#sec-characters}
+
+- **Mary of Magdala** (aka "Lilith"), a woman possessed by 7 demons
+- **Nicodemus** the Pharisee, the teacher of teachers
+- **Matthew**, the tax collector
+- **Simon** and **Andrew**, the fishermen
+
+:::{.callout-warning appearance="simple" icon=false}
+:movie_camera: Watch the [Episode 1](https://watch.thechosen.tv/video/184683594334)
+:::
+
+## :speech_balloon: Quotes {#sec-quotes}
+
+> “Sometimes I wonder if what we can know of Adonai and the Law is just as blurred. What if we're not seeing the whole picture? What if it’s more beautiful and — and more strange — than we can ever imagine?” -- Nicodemus
+
+:::{.callout-tip}
+**_Adonai_** is a Hebrew word meaning “Lord.” Jewish tradition uses this term to refer to God instead of speaking His revealed name, **Yahweh** (written in Hebrew as YHWH). To avoid “taking the Lord’s name in vain,” Jews developed the practice of saying *Adonai* rather than pronouncing the sacred name. In many Bible translations, you’ll notice that **LORD** appears in all capital letters in the Old Testament. This signals that the original Hebrew word is **Yahweh**.
+:::
+
+## :handshake: Discussion {#sec-discussion}
+
+1. As you watched this episode, which characters or moments stood out to you the most, and why? What was it about those scenes or people that captured your attention?
+2. Mary Magdalene and Nicodemus seem to stand at opposite ends of the spiritual spectrum: one feeling broken and unworthy, the other dignified and secure in his religious standing. Which one do you find easier to relate to? If you could speak to each of them, what would you say?
+3. Nicodemus is knowledgeable, respected, and powerful, yet utterly helpless in the face of Mary Magdalene’s suffering. What stood out to you about his reaction in that scene?
+4. In his moment of reflection Nicodemus tells his wife, Zohara: *"Sometimes I wonder if what we can know of Adonai and the Law is just as blurred. What if we're not seeing the whole picture? What if it’s more beautiful and — and more strange — than we can ever imagine?”.* How did you understand this? What do you think Nicodemus is struggling to put into words here?
+5. In this episode, Jesus appears at a very specific moment. How did the timing of His entrance strike you? What do you think the filmmakers are suggesting about His awareness, purpose, and intentionality?
+6. Some characters in this episode appear trapped by their circumstances. How do you see them responding to that sense of being stuck? Why do you think asking for help might be difficult for them?
+7. What does "calling by name" mean to you?
+
+## :thought_balloon: Food for thought {#sec-thought}
+
+1. What part of your life do you feel you most need to be rescued from?
+2. Can you relate to Nicodemus’ sense that the world might be more mysterious and surprising than it seems? How do you respond when you feel that way?
+3. *“Integrity is doing the right thing even when no one is looking.”* How does this idea sit with you when you consider that God knows your heart completely ([Psalms 139:13-18](https://www.bible.com/bible/59/PSA.139.13-18))?
+
+## :bookmark_tabs: Further reading {#sec-reading}
+
+- Matthew: [Matthew 10:3](https://www.bible.com/bible/59/MAT.10.3.ESV)
+- Simon (Peter) and Andrew: [Mark 1:30](https://www.bible.com/bible/59/MRK.1.30.ESV), [Matthew 4:18](https://www.bible.com/bible/59/MAT.4.18.ESV)
+- Mary Magdalene: [Mark 16:9](https://www.bible.com/bible/59/MRK.16.9.ESV), [Luke 8:1-3](https://www.bible.com/bible/59/LUK.8.1-3.ESV), [John 20:11-16](https://www.bible.com/bible/59/JHN.20.11-16.ESV)
+- Isaiah's vision: [Isaiah 6](https://www.bible.com/bible/59/ISA.6.ESV)

@@ -1,0 +1,84 @@
+---
+title: "Episode 5"
+subtitle: "The Wedding Gift"
+description: "If not now, when?"
+date: 2026-02-11
+image: img/s1e5.jpg
+categories:
+  - season1
+  - discussion
+---
+
+## :book: Scripture {#sec-scripture}
+
+:::{.callout-note}
+### [Proverbs 30:4](https://www.bible.com/bible/59/PRO.30.4)
+| ^4^ Who has ascended to heaven and come down? 
+|     Who has gathered the wind in his fists? 
+| Who has wrapped up the waters in a garment? 
+|     Who has established all the ends of the earth? 
+| What is his name, and what is his son’s name? 
+|     Surely you know!
+:::
+
+:::{.callout-note}
+### [John 2:1-11](https://www.bible.com/bible/59/JHN.2.1-11)
+^1^ On the third day there was a wedding at Cana in Galilee, and the mother of Jesus was there. ^2^ Jesus also was invited to the wedding with his disciples. ^3^ When the wine ran out, the mother of Jesus said to him, “They have no wine.” ^4^ And Jesus said to her, “Woman, what does this have to do with me? My hour has not yet come.” ^5^ His mother said to the servants, “Do whatever he tells you.” ^6^ Now there were six stone water jars there for the Jewish rites of purification, each holding twenty or thirty gallons. ^7^ Jesus said to the servants, “Fill the jars with water.” And they filled them up to the brim. ^8^ And he said to them, “Now draw some out and take it to the master of the feast.” So they took it. ^9^ When the master of the feast tasted the water now become wine, and did not know where it came from (though the servants who had drawn the water knew), the master of the feast called the bridegroom ^10^ and said to him, “Everyone serves the good wine first, and when people have drunk freely, then the poor wine. But you have kept the good wine until now.” ^11^ This, the first of his signs, Jesus did at Cana in Galilee, and manifested his glory. And his disciples believed in him.
+:::
+
+[Download Bible App Here](https://www.bible.com/app)
+
+## :performing_arts: Main characters {#sec-characters}
+
+- **Mary**, the mother of Jesus
+- **Jesus**
+- **Mary Magdalene**, **Andrew**, **Simon**, **Big James**, **John**, **Little James**, **Thaddeus**, Jesus' followers
+- **Thomas** and **Ramah**,  vintners from the plains of Sharon
+
+:::{.callout-warning appearance="simple" icon=false}
+:movie_camera: Watch the [Episode 5](https://watch.thechosen.tv/video/184683594338)
+:::
+
+## :speech_balloon: Quotes {#sec-quotes}
+
+> "I am far from home. I am looking in places I would never go because... I am searching for an explanation for something I cannot unsee."
+
+> "Make straight the way for the King! He is here to awaken the earth, but some will not want to waken. They’re in love with the dark. I wonder which one you’ll be."
+
+> "If you think he needs my help, you’ve heard nothing."  
+
+> "We will watch Him...and watch and watch and watch...forever, I think."  
+
+> “From the directions You have provided, I see no logical solution to the problem.”  
+> “It's going to be like that sometimes, Thomas”  
+
+> “Blessed are you, Lord our God, King of the universe who brings forth the fruit of the vine.”  
+
+> "I'll go with you to the ends of the earth."  
+> "I hope so, Simon."
+
+
+:::{.callout-tip}
+The **Pharisees** were a Jewish movement active from the late Second Temple period (515 BC –70 AD) who emphasized faithful daily living, study of the Law, and the belief that God’s instruction included both the *Written Torah* and an *Oral Law* passed down through tradition. Unlike the priestly **Sadducees**, they believed the Law required thoughtful interpretation so it could be faithfully applied to changing circumstances. Their interpretive approach shaped the Mishnah and became foundational for later Rabbinic Judaism, allowing Judaism to survive and adapt after the destruction of the Temple in 70 AD.
+:::
+
+## :handshake: Discussion {#sec-discussion}
+1. As you watched this episode, which characters or moments stood out to you the most, and why? What was it about those scenes or people that captured your attention?
+2. What challenges do you imagine Jesus’ parents faced in raising Him? How might knowing who He was—and who He would become—have shaped their daily life and struggles?
+3. Simon shares the story of what happened to him and connects it to the story of [Elijah and Elisha](#sec-reading). How does Simon understand his calling, and why does it trouble him? How did you perceive Eden’s response to his fears?
+4. Nicodemus’ curiosity leads him into places *he would never go*, as he tries to make sense of what he has witnessed. After rereading [Proverbs 30:4](#sec-scripture) again, what do you think John are suggesting about who Jesus is?
+5. Jesus’ disciples learn largely by [watching Him](#sec-quotes) rather than through formal instruction. Why do you think Jesus chose this way of forming His followers, especially compared with how students typically learned in the synagogue?
+6. The miracle at Cana is framed alongside Thaddeus’ story about stone masonry — that once the first cut is made, the stone is *never going to be the same*. What do you think the filmmakers are implying through this image?
+7. Near the end of the episode, Jesus tells Thomas, “Come with Me and I’ll show you a new way to count and measure — a different way to see time.” What do you think Jesus means by this?
+
+## :thought_balloon: Food for thought {#sec-thought}
+1. Why do you think Jesus chose to work with what was already there — water and empty jars — to produce wine? Why not simply create wine from nothing? What might this suggest about how God chooses to work in the world?
+2. When Thaddeus explains that Jesus was building a ramp for the elderly and disabled, Simon asks, “Why didn’t He just heal them so they could climb the steps?” Why do you think God so often chooses to build “ramps” for us rather than removing every obstacle? Where in your own life have you seen this kind of help?
+3. This episode contrasts Thomas, who tends to analyze and question, with Ramah, who moves quickly into action. Which of them do you relate to more?
+
+## :bookmark_tabs: Further reading {#sec-reading}
+- Young Jesus lost: [Luke 2:41-52](https://www.bible.com/bible/59/LUK.2.41-52)
+- Elijah calling Elisha: [1 Kings 19:19-21 NLT](https://www.bible.com/bible/116/1KI.19.19-21);
+- Wedding: [Jeremiah 33:10-16](https://www.bible.com/bible/59/JER.33.10-16)
+- John the Baptizer story: [Matthew 3:1–12](https://www.bible.com/bible/59/MAT.3.1-12)
+- John the Baptizer quotes: [Exodus 3:1-14](https://www.bible.com/bible/59/EXO.3.1-14) [Isaiah 40:3](https://www.bible.com/bible/59/ISA.40.3); [Proverbs 30:4](https://www.bible.com/bible/59/PRO.30.4); [Matthew 15:14](https://www.bible.com/bible/59/MAT.15.14)

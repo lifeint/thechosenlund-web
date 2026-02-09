@@ -1,0 +1,39 @@
+project:
+  type: website
+
+execute:
+  freeze: auto
+
+website:
+  site-url: https://thechosenlund.org
+  repo-url: https://github.com/lifeint/thechosenlund-web
+  navbar:
+    title: false
+    collapse-below: lg
+    left:
+      - href: index.qmd
+        text: "Home"
+      - text: "Season 1"
+        href: season1/index.qmd
+      - text: "Season 2"
+        href: season2/index.qmd
+      - about.qmd
+  sidebar: 
+    - title: "Season 1"
+      contents: season1/
+    - title: "Season 2"
+      contents: season2/
+  page-footer: 
+    left: |
+      Equmentical project of 
+      [![](img/svenska_kyrkan_logo_pos_RGB_small.png){height=3em}](https://www.svenskakyrkan.se/lundsdomkyrka)&nbsp;&nbsp; [![](img/logo-op.png){height=3em}](https://dominikan.nu/)&nbsp;&nbsp; [![](img/LIFE_logo_recreated_small.png){height=3em}](https://lifeint.online/)
+
+format:
+  html:
+    theme:
+      - sandstone
+    toc: true
+    from: markdown+emoji
+
+
+

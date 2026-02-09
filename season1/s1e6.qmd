@@ -1,0 +1,92 @@
+---
+title: "Episode 6"
+subtitle: "Indescribable Compassion"
+description: "Lord, if You are willing"
+date: 2026-02-18
+image: img/s1e6.jpg
+categories:
+  - season1
+  - discussion
+---
+
+## :book: Scripture {#sec-scripture}
+
+:::{.callout-note}
+### [Mark 1:40–45](https://www.bible.com/bible/59/MRK.1.40-45)
+^40^ And a leper came to him, imploring him, and kneeling said to him, “If you will, you can make me clean.” ^41^ Moved with pity, he stretched out his hand and touched him and said to him, “I will; be clean.” ^42^ And immediately the leprosy left him, and he was made clean. ^43^ And Jesus sternly charged him and sent him away at once, ^44^ and said to him, “See that you say nothing to anyone, but go, show yourself to the priest and offer for your cleansing what Moses commanded, for a proof to them.” ^45^ But he went out and began to talk freely about it, and to spread the news, so that Jesus could no longer openly enter a town, but was out in desolate places, and people were coming to him from every quarter.
+:::
+
+:::{.callout-note}
+### [Luke 5:17-26](https://www.bible.com/bible/59/LUK.5.17-26)
+^17^ On one of those days, as he was teaching, Pharisees and teachers of the law were sitting there, who had come from every village of Galilee and Judea and from Jerusalem. And the power of the Lord was with him to heal. ^18^ And behold, some men were bringing on a bed a man who was paralyzed, and they were seeking to bring him in and lay him before Jesus, ^19^ but finding no way to bring him in, because of the crowd, they went up on the roof and let him down with his bed through the tiles into the midst before Jesus. ^20^ And when he saw their faith, he said, “Man, your sins are forgiven you.” ^21^ And the scribes and the Pharisees began to question, saying, “Who is this who speaks blasphemies? Who can forgive sins but God alone?” ^22^ When Jesus perceived their thoughts, he answered them, “Why do you question in your hearts? ^23^ Which is easier, to say, ‘Your sins are forgiven you,’ or to say, ‘Rise and walk’? ^24^ But that you may know that the Son of Man has authority on earth to forgive sins”—he said to the man who was paralyzed—“I say to you, rise, pick up your bed and go home.” ^25^ And immediately he rose up before them and picked up what he had been lying on and went home, glorifying God. ^26^ And amazement seized them all, and they glorified God and were filled with awe, saying, “We have seen extraordinary things today.”
+:::
+
+[Download Bible App Here](https://www.bible.com/app)
+
+## :performing_arts: Main characters {#sec-characters}
+
+
+- **Jesus**
+- **Quintus**, **Gaius**, the Romans 
+- **Matthew**, the tax collector
+- **Nicodemus**, **Shmuel**, **Yussif**, the Pharisees
+- **Mary Magdalene**, **Andrew**, **Simon**, **Big James**, **John**, **Little James**, **Thaddeus**, the followers of Jesus
+- **Tamar**, an Egyptian woman
+- **The Paralytic**, **The Leper**
+- **Zebedee** and **Salome**, parents of Big James and John.
+
+:::{.callout-warning appearance="simple" icon=false}
+:movie_camera: Watch the [Episode 6](https://watch.thechosen.tv/video/184683594339)
+:::
+
+## :speech_balloon: Quotes {#sec-quotes}
+
+> “And I bet the first thing you did was tell Rome, huh?"  
+> “They don’t believe me!”  
+> “You really are a traitor.”  
+
+> "what good is our answer if you dont even listen to yourself?"
+
+> "They’re already being fed"
+
+> "Your faith is beautiful"
+
+> "Are you lost?"  
+> "Yes, I am."  
+
+:::{.callout-tip}
+**Leprosy** in [Leviticus 13](#sec-reading) refers to various skin conditions (like *tzara'at* in Hebrew, potentially psoriasis, ringworm, vitiligo) that caused ritual impurity, not just the specific bacterial Hansen's disease (leprosy), but broader skin ailments that led to separation from the community for spiritual or ritual reasons.
+:::
+
+:::{.callout-tip}
+**Av Bet Din** literally translates to "Father of the House of Judgment," is the Hebrew term for the Chief Justice or presiding member of a Bet Din (Jewish court). Historically, it was indeed the title given to the second-highest ranking official of the ancient *Great Sanhedrin* in Jerusalem, second only to the *Nasi* (President). 
+
+**The Sanhedrin** was the supreme legislative and judicial body of the Jewish people during late antiquity
+:::
+
+:::{.callout-tip}
+The **Maccabees** were a family of Jewish rebel warriors, led by Judah Maccabee, who successfully revolted against the Seleucid Greek Empire in 167 BC, restoring Jewish religious freedom and establishing the Hasmonean dynasty that ruled Judea as an independent kingdom for a time. 
+:::
+
+## :handshake: Discussion {#sec-discussion}
+1. As you watched this episode, which characters or moments stood out to you the most, and why? What was it about those scenes or people that captured your attention?
+2. The miracle at Cana clearly sets off a chain reaction-- leper hears about Jesus from his sister, his cleansing is witnessed by Tamar, she then leads the paralyzed man to Jesus. How do you see Jesus responding to this growing momentum? Why do you think He tells the healed leper to remain silent, yet allows the paralyzed man to return home publicly, walking through the city?
+3. Simon and Andrew appear unusually protective of Jesus when Matthew shows up at their door. What do you think is really happening beneath the surface--for Matthew, and for Simon and Andrew themselves?
+4. How did you interpret what unfolded during the private reading and discussion in the synagogue? Do you think Nicodemus’ earlier conversation with John the Baptizer influenced how he heard or responded to Shmuel in this moment? What parallels or echoes did you notice between those encounters?
+5. Jesus refers back to his earlier teaching about the future judgment, *when angels will separate the righteous from the wicked*, but not in the way many might expect. How does He frame the future, and what kind of mindset does He seem to be forming in His listeners? How does this challenge common expectations about the end times?
+6. Jesus challenges common assumptions about spiritual practices like prayer and charity. After reading [Luke 18:10–14](#sec-reading), what do you think Jesus is saying about how people approach God--and about what truly matters in spiritual life? 
+7. Both Matthew and Nicodemus are drawn to Zebedee’s house out of curiosity, but for very different reasons. What do you think is stirring in each of them at this point? How are their paths toward Jesus similar, and how are they different?
+
+
+## :thought_balloon: Food for thought {#sec-thought}
+1. Jesus knows what Shmuel is thinking: “Who is this who speaks blasphemies? Who can forgive sins but God alone?” After reading [John 2:24-25](#sec-reading), how do you hold this together with our modern sense of privacy and inner life? How does this compare with what Jesus teaches about privacy in prayer and giving?. 
+2. When the paralyzed man asks Mary Magdalene, *“What if you were me?”* she answers, *“I was you, once.”* What does this exchange reveal about compassion born from experience? How does it shape the way you think about empathy, compassion and caring for others?
+3. What do you sense is really driving Shmuel? He seems unable (or unwilling) to listen to anyone but himself trying to put *God back into the box Shmuel carved for Him*. Have you encountered people like that in your own life? 
+
+## :bookmark_tabs: Further reading {#sec-reading}
+- Leprosy: [Numbers 5:1-4](https://www.bible.com/bible/59/NUM.5.1-4.ESV); [Leviticus 13:1–59](https://www.bible.com/bible/59/LEV.13.1-59.ESV); 
+- Jesus' parents fled to Egypt: [Matthew 2:13-18](https://www.bible.com/bible/59/MAT.2.13-18.ESV); 
+- Jesus' sermon [Matthew 6:2-8](https://www.bible.com/bible/59/MAT.6.2-8.ESV); [Matthew 24:36-51](https://www.bible.com/bible/59/MAT.24.36-51.ESV); [Matthew 25:1-13](https://www.bible.com/bible/59/MAT.25.1-13.ESV); [Luke 13:1-5](https://www.bible.com/bible/59/LUK.13.1-5.ESV); [Luke 18:10–14](https://www.bible.com/bible/59/LUK.18.10-14.ESV)
+- Jesus' mind-reading: [John 2:24-25 NLT](https://www.bible.com/bible/116/JHN.2.24-25.NLT)
+- Shmuel & Nicodemus talk: [Proverbs 17:15](https://www.bible.com/bible/59/PRO.17.15.ESV); [Isaiah 40:3-27](https://www.bible.com/bible/59/ISA.40.3-27); [Jeremiah 6:16](https://www.bible.com/bible/59/JER.6.16)
+- Why Zebedee cares if Jesus is from the tribe of Judah: [Genesis 49:8-10](https://www.bible.com/bible/59/GEN.49.8-10)

@@ -1,0 +1,106 @@
+---
+title: "Episode 4"
+subtitle: "The Perfect Opportunitiy"
+description: "Sometimes you gotta stir up the water."
+date: 2026-04-01
+image: img/s2e4.jpg
+categories:
+  - season2
+  - discussion
+---
+
+## :book: Scripture {#sec-scripture}
+
+:::{.callout-note}
+### [Zephaniah 3:15-20](https://www.bible.com/bible/59/ZEP.3.15-20)
+| ^15^ The Lord has taken away the judgments against you;
+| he has cleared away your enemies.
+| The King of Israel, the Lord, is in your midst;
+| you shall never again fear evil.
+| ^16^ On that day it shall be said to Jerusalem:
+| “Fear not, O Zion;
+| let not your hands grow weak.
+| ^17^ The Lord your God is in your midst,
+| a mighty one who will save;
+| he will rejoice over you with gladness;
+| he will quiet you by his love;
+| he will exult over you with loud singing.
+| ^18^ I will gather those of you who mourn for the festival,
+| so that you will no longer suffer reproach.
+| ^19^ Behold, at that time I will deal
+| with all your oppressors.
+| And I will save the lame
+| and gather the outcast,
+| and I will change their shame into praise
+| and renown in all the earth.
+| ^20^ At that time I will bring you in,
+| at the time when I gather you together;
+| for I will make you renowned and praised
+| among all the peoples of the earth,
+| when I restore your fortunes
+| before your eyes,” says the Lord.
+:::
+
+
+[Download Bible App Here](https://www.bible.com/app)
+
+## :performing_arts: Main characters {#sec-characters}
+
+- **Jesse**, the paralyzed man
+- **Simon, son of Zebulon**, the Zealot, younger brother of Jesse
+- **Atticus Aemilius**, cohorte urbanae, the military spy from Rome.
+- **Jesus** and his disciples
+- **Shmuel**, **Yanni**, the Pharisees
+
+:::{.callout-warning appearance="simple" icon=false}
+:movie_camera: Watch the [Episode 4](https://watch.thechosen.tv/video/184683594356)
+:::
+
+## :speech_balloon: Quotes {#sec-quotes}
+
+> Everyone has wandered through the wilderness at some point.
+
+> You've been having a bad day for a loong time.
+
+
+:::{.callout-tip}
+**Zealots** were a Jewish movement in the first century that sought freedom from Roman rule and envisioned Israel governed by God alone. Fueled by intense devotion to Jewish identity and, at times, messianic expectations, Zealots embraced violent resistance against the Romans and against fellow Jews seen as collaborators. Their actions played a significant role in the First Jewish–Roman War (66–70 CE), which ended with the destruction of Jerusalem and the tragic siege of Masada. See more in [Wikipedia](https://en.wikipedia.org/wiki/Zealots)
+:::
+
+:::{.callout-tip}
+**Cohortes urbanae** (Urban Cohorts) were elite Roman military units established by Augustus to serve as a police force and security detail for the city of Rome and later other key cities, maintaining public order, controlling crowds, and handling crime, distinct from but serving alongside the Praetorian Guard, led by the Urban Prefect, and recruited from Italian citizens. They provided emperors with vital urban control and could be deployed for military campaigns, acting as a crucial internal security force. See more in [Wikipedia](https://en.wikipedia.org/wiki/Cohortes_urbanae)
+:::
+
+
+:::{.callout-tip}
+**Feast of Tabernacles**, also known as Sukkot or the Feast of Booths, is a Torah-commanded Jewish festival that celebrates the autumn harvest and commemorates Israel’s journey out of Egypt. It is observed for seven days beginning on the 15th of Tishrei. Sukkot is one of the Three Pilgrimage Festivals, during which Israelites were commanded to travel to Jerusalem to worship at the Temple. See more in [Wikipedia](https://en.wikipedia.org/wiki/Sukkot)
+:::
+
+
+
+## :handshake: Discussion {#sec-discussion}
+1. As you watched this episode, which characters or moments stood out to you the most, and why? What was it about those scenes or people that captured your attention?
+2. During the Sukkot meal, the disciples discuss Zechariah 14:16, which speaks of the nations coming to Jerusalem to celebrate the Feast of Tabernacles. Jesus responds, “Something will have to change.” What do you think He means by that?
+3. Jesus says, “Everyone has wandered through the wilderness at some point.” How do you understand this statement? What “wilderness” experiences do you see in the lives of the disciples?
+4. Imagine being someone who has tried everything—including waiting by the Pool of Bethesda—in the hope of being healed. What do you think that kind of life would do to a person’s state of mind? How does Jesse seem to be when Jesus finds him?
+5. What has Simon the Zealot placed his hope in for salvation? What has Jesse placed his hope in? How do their hopes compare, and how do they ultimately turn out?
+6. Jesus asks Jesse, “Do you want to be healed?” How do you think Jesse understood this question? What does his response—especially his explanation of why he hasn’t been healed—reveal about how he hears Jesus?
+7. Why do you think *wanting to be healed* matters? How do people often interpret this idea (for example, “If you really wanted it, you would”), and how do you think God understands it?
+
+## :thought_balloon: Food for thought {#sec-thought}
+1. What do you make of the timing of the paralytic’s healing? The disciples wonder why Jesus doesn’t wait thirty more minutes for Shabbat to end. What might Jesus understand that they do not yet see?
+2. Jesus describes the paralytic as “the one who’s been here the longest… but doesn’t belong.” What do you think He means by this?
+
+
+## :bookmark_tabs: Further reading {#sec-reading}
+- Healing at the Pool of Bethesda: [John 5:1-18](https://www.bible.com/bible/59/JHN.5.1-18)
+- Passages Simon the Zealot cites: [Exodus 22:20](https://www.bible.com/bible/59/EXO.22.20); [Zephaniah 3:15-20](https://www.bible.com/bible/59/ZEP.3.15-20); [Ecclesiastes 3:1-8](https://www.bible.com/bible/59/ECC.3.1-8); [Psalm 69:9](https://www.bible.com/bible/59/PSA.69.9)
+- Prophecy about the international Sukkut: [Zekhariah 14:16](https://www.bible.com/bible/59/ZEK.14.16)
+- Jesus, the Lord of Sabbath: [Mark 2:23-27](https://www.bible.com/bible/59/MRK.2.23-27); [Mark 3:1-6](https://www.bible.com/bible/59/MRK.3.1-6); [Matthew 12:1–21](https://www.bible.com/bible/59/MAT.12.1-21); [Luke 6:1–11](https://www.bible.com/bible/59/LUK.6.1-11)
+
+:::{.callout-note}
+Two Jewish prayers appearing in this episode:
+
+- Birkat HaGomel (For surviving life-threatening situations): "Blessed are You, LORD our God, King of the Universe, who bestows good things upon the unworthy, and has bestowed upon me every goodness."
+- Ha'tov ve'hametiv (For good news and positive experiences): "Blessed are You, Lord, our God, King of the Universe, who is good and does good"
+:::

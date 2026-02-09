@@ -1,0 +1,104 @@
+---
+title: "Episode 8"
+subtitle: "I am He"
+description: "Spirit and truth"
+date: 2026-03-04
+image: img/s1e8.jpg
+categories:
+  - season1
+  - discussion
+---
+
+## :book: Scripture {#sec-scripture}
+
+:::{.callout-note}
+### [Hosea 6:6 NKJV](https://www.bible.com/bible/114/HOS.6.6)
+For I desire mercy and not sacrifice, And the knowledge of God more than burnt offerings.
+:::
+
+:::{.callout-note}
+### [Daniel 7:13-14](https://www.bible.com/bible/59/DAN.7.13-14)
+| ^13^ “I saw in the night visions,
+| and behold, with the clouds of heaven
+|    there came one like a *son of man*,
+| and he came to the *Ancient of Days*
+|    and was presented before him.
+| ^14^ And to him was given dominion
+|    and glory and a kingdom,
+| that all peoples, nations, and languages
+|    should serve him;
+| his dominion is an everlasting dominion,
+|    which shall not pass away,
+| and his kingdom one
+|    that shall not be destroyed.
+:::
+
+[Download Bible App Here](https://www.bible.com/app)
+
+## :performing_arts: Main characters {#sec-characters}
+
+- **Jesus** and his **desciples**
+- **Simon**, **Eden**, and **Dasha**, Eden's mom
+- **Nicodemus**, **Shmuel**, **Yussif**, the Pharisees
+- **Gaius**, *Primi Ordine* in Capernaum
+- **Alpheus**, **Elisheva**, parents of Matthew
+- **Photina**, the Samaritan woman at the Jacob's well
+
+
+:::{.callout-warning appearance="simple" icon=false}
+:movie_camera: Watch the [Episode 8](https://watch.thechosen.tv/video/184683594341)
+:::
+
+## :speech_balloon: Quotes {#sec-quotes}
+> "Oh, no, no! I've heard enough. Of all the gods you could possibly choose from, you pick an invisible God whose promises take generations to come true, who makes you sojourn in a strange places and He broke your hip? That is a strange choice."  
+> "We didn't choose Him. He chose us"
+
+> "It's not the healthy who need a doctor, but the sick."
+
+> "When we stumble onto hard roads, He finds us and comforts us."  
+> "Or does He call us to them?"  
+
+> "Did you join me for safety reasons?"  
+
+> "This Messiah you speak of. I am He."  
+
+> "You picked the wrong person."  
+> "I came to Samaria just to meet you."  
+
+> "I'm going to tell everyone."   
+> "I was counting on it."  
+
+:::{.callout-tip}
+Hostility between Jews and Samaritans was long-standing. Samaritans worshiped at their own temple on Mount Gerizim, which was destroyed by the Jewish ruler John Hyrcanus around 111–110 BCE, greatly intensifying tensions. Ancient sources such as Josephus also describe Samaritans at times aligning themselves with Seleucid rulers during the Maccabean period, further alienating them from Judean Jews. Josephus later reports an incident in which Samaritans desecrated the Jerusalem Temple by scattering human bones, likely in the early first century CE, helping explain the deep mistrust that existed in Jesus’ day.
+:::
+
+:::{.callout-tip}
+[Samaritans](https://en.wikipedia.org/wiki/Samaritanism) believe in a messianic figure called the **Taheb** (meaning “the Restorer” or “the one who returns”). They believe that when the Taheb comes, he will **clarify the true meaning of the Law of Moses (the Torah)** and **restore the authentic worship of God** on Mount Gerizim. The Taheb expected to come *from the tribe of Joseph* holds a central place in Samaritan belief, alongside their faith in one God and their conviction that Moses is the ultimate prophet.
+:::
+
+:::{.callout-tip}
+Photina is the traditional name later given to the Samaritan woman at the well in [John 4](https://www.bible.com/bible/59/JHN.4). The name does not appear in the biblical text and comes from early Christian writings, particularly in Eastern Christian tradition. Its historical accuracy cannot be confirmed. 
+:::
+
+## :handshake: Discussion {#sec-discussion}
+1. As you watched this episode, which characters or moments stood out to you the most, and why? What was it about those scenes or people that captured your attention?
+2. For a brief moment, Nicodemus senses that God may be calling him to "follow the hard roads", yet he ultimately turns back to what is familiar and safe. When later Nicodemus is hiding by the gate, Jesus whispers “You came so close”. How do you understand his decision to turn back? What emotions or pressures do you think are shaping that moment?
+3. When Jesus appears to read Shmuel’s thoughts, it deeply unsettles him. Shmuel responds by investigating the topic of false prophecy and blackmails Nicodemus into allowing access to the Jerusalem archives. Why do you think Jesus' words that "the Son of Man has authority on earth to forgive sins" alarms Shmuel so strongly? In light of [Daniel 7:13–14](#sec-reading), why might Shmuel suspect that Jesus is claiming something far more radical than being a prophet?
+4. Photina seems caught in a constant state of searching—running from trauma while also admitting, “I’ve made mistakes… too many.” She speaks of being barred from the Jerusalem Temple as a Samaritan and feels excluded from communal of worship on Mount Gerizim. How would you describe where she is spiritually at the moment she meets Jesus?
+5. "I am surrendering," says Matthew. His choice shocks everyone around him. Quintus is surprised, Gaius is confused, and Matthew’s parents seem unsure how to respond. What do you think is happening internally for Matthew at this point? 
+6. Through Jesus’ interaction with Simon and Eden, we catch a glimpse of His view of marriage. What do you notice about Jesus’ understanding of marriage and commitment?
+7. As we come to the end of Season 1, which scene has stayed with you the most—and why? Based on what you’ve seen so far, how would you describe Jesus’ mission?
+
+## :thought_balloon: Food for thought {#sec-thought}
+1. Early in the episode, Jacob is asked if his God is invisible. Jacob replies, "Yes. Well, usually. There was one time He broke my hip." Later, when speaking with Photina, Jesus casually drops, "I know Jacob." What do you think the filmmakers are suggesting by linking these moments? How does this shape your understanding of who Jesus is?
+2. Nicodemus challenges Shmuel by saying, "So it’s all about politics and promotion for you, isn’t it? It’s not to serve God." Shmuel responds, "On the contrary, Teacher. It’s about the law. *And the law… is God*." Who--or what--do you think Shmuel is ultimately serving? 
+3. In a conversation with Shmuel, Nicodemus insists about Jesus, "He comes from Nazareth, not heaven… He’s simply a man." This stands in sharp contrast to the Nicodemus we saw kneeling on the rooftop the night before. Do you think this is what Nicodemus truly believes--or is it something he tells himself to justify choosing the familiar path over the costly one?
+
+## :bookmark_tabs: Further reading {#sec-reading}
+- The story of Jacob's well: [Genesis 33:19](https://www.bible.com/bible/59/GEN.33.19); [Joshua 24:32](https://www.bible.com/bible/59/JOS.24.32); [John 4:5](https://www.bible.com/bible/59/JHN.4.5)
+- Jacob wrestling with God: [Genesis 32:22–32](https://www.bible.com/bible/59/GEN.32.22-32)
+- Divorce in the Torah: [Deuteronomy 24:1](https://www.bible.com/bible/59/DEU.24.1)
+- The story of Hagar and *Adonai El Roi*: [Genesis 16](https://www.bible.com/bible/59/GEN.16)
+- Son of Man reference in Daniel: [Daniel 7:13-14](https://www.bible.com/bible/59/DAN.7.13-14)
+- Healing of Simon's mother-in-law: [Luke 4:38-39](https://www.bible.com/bible/59/LUK.4.38-39) 
+- Samaritan woman at the well: [John 4:1-42](https://www.bible.com/bible/59/JHN.4.1-42)

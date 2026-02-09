@@ -1,0 +1,10 @@
+---
+title: "Season 1"
+listing:
+  contents: /s1*.qmd
+  sort: "date desc"
+  type: default
+  categories: true
+---
+
+Welcome to the first season of The Chosen 

@@ -1,0 +1,91 @@
+---
+title: "Episode 1"
+subtitle: "Thunder"
+description: "Spirit and truth"
+date: 2026-03-11
+image: img/s2e1.jpg
+categories:
+  - season2
+  - discussion
+---
+
+## :book: Scripture {#sec-scripture}
+
+:::{.callout-note}
+### [Matthew 4:17](https://www.bible.com/bible/59/MAT.4.17)
+^17^ From that time Jesus began to preach, saying, “Repent, for the kingdom of heaven is at hand.”
+:::
+
+:::{.callout-note}
+### [John 1:1-5](https://www.bible.com/bible/59/JHN.1.1-5)
+^1^ In the beginning was the Word, and the Word was with God, and the Word was God. ^2^ He was in the beginning with God. ^3^ All things were made through him, and without him was not any thing made that was made. ^4^ In him was life, and the life was the light of men. ^5^ The light shines in the darkness, and the darkness has not overcome it.
+:::
+
+[Download Bible App Here](https://www.bible.com/app)
+
+## :performing_arts: Main characters {#sec-characters}
+
+- **Jesus**
+- **John** and **Big James**, the "Sons of Thunder", the disciples of Jesus
+- **Philip**, **Ramah** and **Kafni**, Ramah's father - vintners from the plains of Sharon
+- **Photina** and **Nedim**, her husband
+- **The priest of Sichar**
+- other disciples
+
+:::{.callout-warning appearance="simple" icon=false}
+:movie_camera: Watch the [Episode 1](https://watch.thechosen.tv/video/184683594353)
+:::
+
+## :speech_balloon: Quotes {#sec-quotes}
+
+> "That woman is going to introduce you to every Samaritan in the country."  
+> "I hope so."
+
+> "I ask a lot of those who follow Me...but I ask little of those who do not."
+
+> "I'm here to preach the good news of the Kingdom of Heaven, a Kingdom that is not of this world,a Kingdom that is coming soon,where, yes, sorrow and sighing will flee away. I make a way for people to access that Kingdom. But, in this world bones will still break, hearts will still break, but in the end the light will overcome darkness."
+
+> "I am thankful before You, living and enduring King, for you have mercifully restored my soul within me. Great is Your faithfulness." Modeh Ani
+
+> "It was to show you that what we're doing here will last for generations... it's sowing seeds that will have a lasting impact for lifetimes. These people that you hate so much are believing in Me without even seeing miracles. It's the message, the truth, that we're giving them. And you're going to get in the way of that because a few people, from a region you don't like were mean to you?"
+
+> "What--you're so much better? You're more worthy? Well, let me tell you something: you're not! That's the whole point. It's why I'm here."
+
+> "Well, it sounds a lot worse when you say it that way."
+
+> "It is a favorite memory."
+
+:::{.callout-tip}
+**Shiva** (Hebrew for "seven") is a solemn, seven-day mourning period for first-degree relatives (parents, spouses, children, siblings) following a burial, where the family stays home to grieve, receive visitors offering condolences, and focus on spiritual healing.  
+*James*, the brother of John, was martyred by King Herod Agrippa around 44 AD, making him the first apostle killed, as recorded in [Acts 12:2](#sec-reading). He was executed by the sword to please Jewish leaders, fulfilling a prophecy Jesus made about the "sons of thunder" ([Mark 10:39](#sec-reading), [Matthew 20:23](#sec-reading)).
+:::
+
+:::{.callout-tip}
+Samaritans only accept the first five books of Moses, known as the Torah or Pentateuch (Genesis, Exodus, Leviticus, Numbers, Deuteronomy), as divinely inspired scripture, rejecting the rest of the Hebrew Bible (Tanakh), viewing their version as the uncorrupted original text. This tradition stems from their belief in Moses as the one true prophet and Mount Gerizim as the holy place, with their scripture, the *Samaritan Pentateuch*, reflecting their unique faith.
+:::
+
+## :handshake: Discussion {#sec-discussion}
+1. As you watched this episode, which characters or moments stood out to you the most, and why? What was it about those scenes or people that captured your attention?
+2. There's an old Yiddish proverb: "Man plans, God laughs" ("Mentsch tracht, Gott lacht"). What tensions do you see in the disciples trying to plan Jesus’ ministry? What seems to be the real problem with their approach--is it hard to plan because Jesus acts unsystematically, or something else?
+3. John and James don’t seem to understand why Jesus sends them to plow the field. How did you understand [Jesus’ purpose](#sec-quotes) in giving them this task? What might He have been trying to teach them through it? 
+4. Chedva, Melech’s wife, expresses a hope shared across generations—that God should bring an end to pain and suffering. Jesus gently [challenges that expectation](#sec-quotes). How did you understand His response, and what kind of hope does it seem to offer instead?
+5. Jesus already knows Melech’s story, yet He allows Melech to tell it himself. Why do you think Jesus does that? What might be gained by letting Melech speak his story aloud?
+6. Melech is heartbroken over his past and asks Jesus, *“What do you want?”* Jesus responds: *"Believe My words. Return to synagogue. Search Torah... and let it affect your heart. See what happens"*. Melech is unconvinced: *"And then what?".* Jesus says: *"Tell others."* How do you understand this exchange? What stands out to you about Jesus’ answer, and about Melech’s reaction?
+7. How did you interpret the opening and closing scenes of the episode? What do they suggest about how John understands who Jesus is?
+ 
+
+## :thought_balloon: Food for thought {#sec-thought}
+1. John the Baptizer says in the previous season, “If you think He needs my help, you heard nothing.” In light of the reaction of the Sons of Thunder, when I feel compelled to “defend the honor of God,” could that sometimes be a cover for my own wounded ego?
+2. Jesus knew exactly which field He was sending John and Big James into—and He also knew how they might react if they had known more. What does this suggest about how God limits or reveals what we know for our own good?
+3. Simon observes, “Look at them. You couldn’t tell Jew from Samaritan…the way they’re listening.” Read [Acts 10](https://www.bible.com/bible/59/ACT.10.ESV) and reflect on Simon’s journey. In what ways do you think he struggled (or was surprised) by the possibility that God’s kingdom might be wider than he initially imagined?
+
+## :bookmark_tabs: Further reading {#sec-reading}
+- "Heaven and earth will pass away": [Matthew 24:35](https://www.bible.com/bible/59/MAT.24.35)
+- Bookends of the Gospel of John: [John 1:1-5](https://www.bible.com/bible/59/JHN.1.1-5); [John 21:25](https://www.bible.com/bible/59/JHN.21.25)
+- "In the beginning": [Psalm 33:6](https://www.bible.com/bible/59/PSA.33.6); [Genesis 1:1-3](https://www.bible.com/bible/59/GEN.1.1-3)
+- The sons of thunder: [Acts 12:2](https://www.bible.com/bible/59/ACT.12.2); [Mark 10:39](https://www.bible.com/bible/59/MRK.10.39), [Matthew 20:23](https://www.bible.com/bible/59/MAT.20.23)
+- Parable of a lost sheep: [Matthew 18:10-14](https://www.bible.com/bible/59/MAT.18.10-14); [Luke 15:1-7](https://www.bible.com/bible/59/LUK.15.1-7)
+- Opposition in Samaria: [Luke 9:51-56](https://www.bible.com/bible/59/LUK.9.51-56)
+- The rest of Melech's story: [Luke 10:25-37](https://www.bible.com/bible/59/LUK.10.25-37)
+
+

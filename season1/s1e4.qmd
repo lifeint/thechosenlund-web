@@ -1,0 +1,87 @@
+---
+title: "Episode 4"
+subtitle: "The Rock on Which It Is Built"
+description: "Follow Me"
+date: 2026-02-04
+image: img/s1e4.jpg
+categories:
+  - season1
+  - discussion
+---
+
+## :book: Scripture {#sec-scripture}
+
+:::{.callout-note}
+### [John 1:29](https://www.bible.com/bible/59/JHN.1.29)
+^29^ The next day he saw Jesus coming toward him, and said, “Behold, the Lamb of God, who takes away the sin of the world!
+:::
+
+:::{.callout-note}
+### [Isaiah 53:7](https://www.bible.com/bible/59/ISA.53.7)
+^7^ He was oppressed, and he was afflicted, yet he opened not his mouth; like a lamb that is led to the slaughter, and like a sheep that before its shearers is silent, so he opened not his mouth.
+:::
+
+:::{.callout-note}
+### [Luke 5:1-11](https://www.bible.com/bible/59/LUK.5.1-11)
+
+^1^ On one occasion, while the crowd was pressing in on him to hear the word of God, he was standing by the lake of Gennesaret, ^2^ and he saw two boats by the lake, but the fishermen had gone out of them and were washing their nets. 
+:::
+
+[Download Bible App Here](https://www.bible.com/app)
+
+## :performing_arts: Main characters
+
+- **Jesus**, **Simon**, **Andrew**, **Matthew**
+- **Zebedee**, the old fisherman
+- **James** and **John**, sons of Zebedee
+- **John the Baptiser**, the arrested preacher
+- **Nicodemus**
+
+:::{.callout-warning appearance="simple" icon=false}
+:movie_camera: Watch the [Episode 4](https://watch.thechosen.tv/video/184683594337)
+:::
+
+## :speech_balloon: Quotes
+
+> "No more talking. Maybe God can get your attention now."
+
+> "I keep track of things. I do it well. Quintus knows I do it well."
+
+> "Variables. People are always adding variables."
+
+> "Eh! People bark sometimes, too."
+
+> "Depart from me. I am a sinful man. You don't know who I am, and the things I've done."    
+> "Don't be afraid, Simon." 
+
+> "From now on, I will make you fishers of men. And you are to gather as many as possible, all kinds. I will sort them out later."  
+
+## :handshake: Discussion
+
+1. As you watched this episode, which characters or moments stood out to you the most, and why? What was it about those scenes or people that captured your attention?
+2. In this episode, Simon hits a moral *rock bottom* (a moral *sandbar*?) when he considers turning in his fellow fishermen -- men he drinks and hangs out with -- to the Romans. What do you think ultimately stops him from going through with it? Was it calculation and self-interest, or something deeper?
+3. Simon’s wife, Eden, emerges as one of the most significant figures in this episode. How did you experience her faith and her firm, yet loving, stance toward Simon? If you were in her position, how do you imagine you would respond?
+4. Matthew continues to change as he tries to make sense of both the predictable and the miraculous. How do you think he views Simon at this point? How does Matthew describe -- or struggle to describe -- the miracle he witnesses?
+
+:::{.callout-caution collapse="true"}
+### Spoiler alert!
+Matthew is traditionally understood to be the author of the first Gospel in the New Testament. Did you notice who provides him with his writing tools -- and, effectively, commissions him to carefully record all that he witnesses?
+:::
+
+5. After Matthew warns Simon that he will be arrested in the morning, Simon chooses to go fishing anyway. What do you think drives that decision? Faith, desperation, a last act of defiance -- or a quiet hope for something more?
+6. Earlier, Zebedee tells Simon at the bar that he is on his own in the mess he created. Yet on Simon’s darkest night, Andrew, Zebedee, and his sons all show up to help him. What do you think moved them to act? What does this reveal about their relationship with Simon -- and about who they are?
+7. What did you learn in this episode about how Jews like Andrew, Simon, and Zebedee expected the Messiah to appear and act? In light of what you reflected on earlier -- especially about Messianic expectations shared by the children -- do you think it was easy for people to accept that Jesus might be the Messiah they were waiting for? Why or why not?
+
+## :thought_balloon: Food for thought
+
+1. In Simon’s recitation, he seems to suggest that God has repeatedly let His people down. He lists painful events and places much of the blame on God -- but his retelling leaves important things out. What is missing from Simon’s version of the story? In what ways are you tempted to a similar kind of selective remembering -- blaming God while overlooking your own role or responsibility?  
+2. Which area of your life do you find hardest to release control over -- relationships, work, or future plans? What do you think makes that area especially difficult to trust God with?
+3. Simon first tells Jesus, “Depart from me,” and then immediately agrees to follow Him wherever He goes. What do you think is happening inside Simon in that moment? Have you ever felt a similar tension between reverence and trust?
+
+## :bookmark_tabs: Further reading {#sec-reading}
+
+- John the Baptiser: [John 1:19-28](https://www.bible.com/bible/59/JHN.1.19-28); [John 3:1-6](https://www.bible.com/bible/59/JHN.3.1-6); [Isaiah 40:3](https://www.bible.com/bible/59/ISA.40.3)
+- Promise to Abraham: [Genesis 15:1-5](https://www.bible.com/bible/59/GEN.15.1-5); [Genesis 22:17](https://www.bible.com/bible/59/GEN.22.17); [Genesis 26:4](https://www.bible.com/bible/59/GEN.26.4)
+- Jesus' Parables: [Matthew 13](https://www.bible.com/bible/59/MAT.13.ESV)
+
+
