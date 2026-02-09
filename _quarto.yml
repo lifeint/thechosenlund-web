@@ -26,7 +26,7 @@ website:
   page-footer: 
     left: |
       Equmentical project of 
-      [![](img/svenska_kyrkan_logo_pos_RGB_small.png){height=3em}](https://www.svenskakyrkan.se/lundsdomkyrka)&nbsp;&nbsp; [![](img/logo-op.png){height=3em}](https://dominikan.nu/)&nbsp;&nbsp; [![](img/LIFE_logo_recreated_small.png){height=3em}](https://lifeint.online/)
+      [![](/img/svenska_kyrkan_logo_pos_RGB_small.png){height=3em}](https://www.svenskakyrkan.se/lundsdomkyrka)&nbsp;&nbsp; [![](/img/logo-op.png){height=3em}](https://dominikan.nu/)&nbsp;&nbsp; [![](/img/LIFE_logo_recreated_small.png){height=3em}](https://lifeint.online/)
 
 format:
   html:
