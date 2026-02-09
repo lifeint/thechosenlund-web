@@ -7,7 +7,7 @@ resources:
   - img/wp15410183.png
 format:
   html:
-    css: index.scss
+    css: "./index.scss"
 ---
 
 ::: {style="color: white;"}
