@@ -1,0 +1,25 @@
+[
+  {
+    "listing": "/season1/index.html",
+    "items": [
+      "/season1/s1e8.html",
+      "/season1/s1e7.html",
+      "/season1/s1e6.html",
+      "/season1/s1e5.html",
+      "/season1/s1e4.html",
+      "/season1/s1e3.html",
+      "/season1/s1e2.html",
+      "/season1/s1e1.html"
+    ]
+  },
+  {
+    "listing": "/season2/index.html",
+    "items": [
+      "/season2/s2e5.html",
+      "/season2/s2e4.html",
+      "/season2/s2e3.html",
+      "/season2/s2e2.html",
+      "/season2/s2e1.html"
+    ]
+  }
+]
