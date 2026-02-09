@@ -2,6 +2,9 @@
 title: ""
 page-layout: full
 toc: false
+resources:
+  - img/thechosenlogo.png
+  - img/wp15410183.png
 format:
   html:
     css: index.scss
