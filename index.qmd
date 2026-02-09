@@ -17,7 +17,7 @@ format:
 
 *A small-group series exploring the life of Jesus Christ through*
 
-![](img/thechosenlogo.png){height=7em}
+![](/img/thechosenlogo.png){height=7em}
 
 &nbsp;
 
