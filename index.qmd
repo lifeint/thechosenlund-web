@@ -1,5 +1,6 @@
 ---
 title: ""
+pagetitle: "The Chosen Lund"
 page-layout: full
 toc: false
 resources:
