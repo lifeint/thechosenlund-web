@@ -2,7 +2,7 @@
 title: "Episode 2"
 subtitle: "Shabbat"
 description: "I was one way... and now I am completely different"
-date: 2026-01-21
+date: 2026-03-04
 image: img/s1e2.jpg
 categories:
   - season1

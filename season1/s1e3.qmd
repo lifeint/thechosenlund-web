@@ -2,7 +2,7 @@
 title: "Episode 3"
 subtitle: "Jesus Loves The Little Children"
 description: "I have a much larger job than just being a craftsman or a teacher"
-date: 2026-01-28
+date: 2026-03-18
 image: img/s1e3.jpg
 categories:
   - season1
