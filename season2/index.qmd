@@ -1,7 +1,7 @@
 ---
 title: "Season 2"
 listing:
-  contents: /s2*.qmd
+  contents: /s2e1.qmd
   sort: "date desc"
   type: default
   categories: true
