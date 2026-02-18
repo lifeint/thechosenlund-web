@@ -22,7 +22,9 @@ website:
     - title: "Season 1"
       contents: season1/
     - title: "Season 2"
-      contents: season2/
+      contents:
+        - season2/index.qmd
+        - season2/s2e1.qmd
   page-footer: 
     left: |
       Equmentical project of 

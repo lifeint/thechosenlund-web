@@ -2,7 +2,7 @@
 title: "Episode 1"
 subtitle: "I have called you by name"
 description: "You are mine"
-date: 2026-01-14
+date: 2026-02-18
 image: img/s1e1.jpg
 categories:
   - season1

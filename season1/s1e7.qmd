@@ -2,7 +2,7 @@
 title: "Episode 7"
 subtitle: "Invitations"
 description: "Get used to different"
-date: 2026-02-25
+date: 2026-05-13
 image: img/s1e7.jpg
 categories:
   - season1

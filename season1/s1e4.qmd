@@ -2,7 +2,7 @@
 title: "Episode 4"
 subtitle: "The Rock on Which It Is Built"
 description: "Follow Me"
-date: 2026-02-04
+date: 2026-04-01
 image: img/s1e4.jpg
 categories:
   - season1

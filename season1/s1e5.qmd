@@ -2,7 +2,7 @@
 title: "Episode 5"
 subtitle: "The Wedding Gift"
 description: "If not now, when?"
-date: 2026-02-11
+date: 2026-04-15
 image: img/s1e5.jpg
 categories:
   - season1

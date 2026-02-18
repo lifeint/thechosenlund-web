@@ -3,5 +3,29 @@ title: "About"
 toc: false
 ---
 
-## The Chosen in Lund
+The Chosen is a TV series based on the life of Jesus, seen through the eyes of the people who knew him. Starting the 18th of February (Ash Wednesday) a free public viewing will be held at the Domkyrkoforum, the meeting place next to the Cathedral of Lund (📍[Google Maps](https://maps.app.goo.gl/K1jVT2Z3yr8Q28RV6)).
 
+We start with a light fika and introduction, after which the episode is watched together. After the episode, there will be a discussion in small groups, using the study guides that can be found on this website.
+
+The viewings are public, offered for anyone who is curious to learn more about the life of Jesus. The events are held in English. It is free to attend the viewings and no prior registration is required.
+
+Note that you can join us at any of the viewings, regardless of whether you attended the previous ones, as each episode can be enjoyed on its own.
+
+:::{.callout-note}
+### Calendar
+
+Viewings will be held at 19:30 on the following Wednesdays:
+
+- 18 February
+- 4 March
+- 18 March
+- 1 April
+- 15 April
+- 29 April
+- 13 May
+- 27 May
+- 10 June
+:::
+You can learn more about The Chosen from the [official FAQ](https://thechosen.tv/en-us#FAQ).
+
+Come and see!

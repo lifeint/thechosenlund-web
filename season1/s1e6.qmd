@@ -2,7 +2,7 @@
 title: "Episode 6"
 subtitle: "Indescribable Compassion"
 description: "Lord, if You are willing"
-date: 2026-02-18
+date: 2026-04-29
 image: img/s1e6.jpg
 categories:
   - season1
