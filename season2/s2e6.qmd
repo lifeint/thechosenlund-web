@@ -1,7 +1,7 @@
 ---
 title: "Episode 6"
 subtitle: "Unlawful"
-description: "."
+description: "I just want your heart"
 date: 2026-11-04
 image: img/s2e6.jpg
 categories:
@@ -12,8 +12,19 @@ categories:
 ## :book: Scripture {#sec-scripture}
 
 :::{.callout-note}
-### [Zephaniah 3:15-20](https://www.bible.com/bible/59/ZEP.3.15-20)
-| 
+### [Psalm 20:7](https://www.bible.com/bible/59/PSA.20.7)
+| Some trust in chariots and some in horses,
+|    but we trust in the name of the Lord our God.
+:::
+
+:::{.callout-note}
+### [Matthew 12:9-14](https://www.bible.com/bible/59/MAT.12.9-14)
+^9^ He went on from there and entered their synagogue. ^10^ And a man was there with a withered hand. And they asked him, “Is it lawful to heal on the Sabbath?”—so that they might accuse him. ^11^ He said to them, “Which one of you who has a sheep, if it falls into a pit on the Sabbath, will not take hold of it and lift it out? ^12^ Of how much more value is a man than a sheep! So it is lawful to do good on the Sabbath.” ^13^ Then he said to the man, “Stretch out your hand.” And the man stretched it out, and it was restored, healthy like the other. ^14^ But the Pharisees went out and conspired against him, how to destroy him.
+:::
+
+:::{.callout-note}
+### [Matthew 12:1-8](https://www.bible.com/bible/59/MAT.12.1-8)
+^1^ At that time Jesus went through the grainfields on the Sabbath. His disciples were hungry, and they began to pluck heads of grain and to eat. ^2^ But when the Pharisees saw it, they said to him, “Look, your disciples are doing what is not lawful to do on the Sabbath.” ^3^ He said to them, “Have you not read what David did when he was hungry, and those who were with him: ^4^ how he entered the house of God and ate the bread of the Presence, which it was not lawful for him to eat nor for those who were with him, but only for the priests? ^5^ Or have you not read in the Law how on the Sabbath the priests in the temple profane the Sabbath and are guiltless? ^6^ I tell you, something greater than the temple is here. ^7^ And if you had known what this means, ‘I desire mercy, and not sacrifice,’ you would not have condemned the guiltless. 8 For the Son of Man is lord of the Sabbath.”
 :::
 
 
@@ -21,10 +32,11 @@ categories:
 
 ## :performing_arts: Main characters {#sec-characters}
 
-- **Atticus Aemilius**, cohorte urbanae, the military spy from Rome.
 - **Jesus** and his disciples
-- **Simon, son of Zebulon**, the Zealot, younger brother of Jesse
-
+- **Mary Magdalene**, the disciple, whom Jesus met (and delivered) at the bar in Capernaum.
+- **Mother Mary**, the mother of Jesus.
+- **Elam**, the man with withered hand healed by Jesus at Wadi Qelt sinagogue.
+- **Madai** and **Lamech**, pharisees at Wadi Qelt sinagogue.
 
 :::{.callout-warning appearance="simple" icon=false}
 :movie_camera: Watch the [Episode 6](https://watch.thechosen.tv/video/184683594358)
@@ -32,31 +44,53 @@ categories:
 
 ## :speech_balloon: Quotes {#sec-quotes}
 
-> .I have everything I need. But I wanted you.
+> Life is more sacred than bread.
 
+> A: Something is going to come through you. I can feel it. Something bigger and more exciting... I don't know what.  
+> D: There was nothing bigger or more exciting than that giant.  
+> A: We'll see.  
+
+> We can't fix anything by worrying about it.
+
+> I actually don't understand most of this; [...] I'm just following.
+
+> He saved you to do all these things.
+
+> I just want your heart. The Father just wants your heart. Give Us that, which you already have, and the rest will come in time. 
 
 :::{.callout-tip}
-Herod Antipas divorced his Nabatean wife, Phasaelis (or Fales), to marry Herodias, who was his niece and the wife of his half-brother Herod Philip; this union was a major scandal, condemned by John the Baptist as unlawful incest and adultery under Mosaic Law
+Pikuach nefesh (Hebrew for "saving a soul" or "saving a life") is the supreme foundational principle in Halakha (Jewish law) stating that the preservation of human life overrides virtually any other religious rule, commandment (mitzvah), or restriction in Judaism.
 :::
 
 
 :::{.callout-tip}
-Shammai - Shimon disagreement in Sanhedrin
+In Jewish law (Halakha), an agunah (plural: agunot) literally translates to a "chained" or "anchored" woman. It represents one of the most legally complex and emotionally distressing situations a woman can face within traditional Jewish family law. An agunah is a woman who is legally trapped in her marriage; she is no longer living with her husband, but she is completely forbidden from moving on or remarrying. Read more about the [Agunah problem](https://www.chabad.org/library/article_cdo/aid/613084/jewish/The-Agunah.htm)
 :::
 
 
 ## :handshake: Discussion {#sec-discussion}
 1. As you watched this episode, which characters or moments stood out to you the most, and why? What was it about those scenes or people that captured your attention?
-
+2. At the end of the previous episode, Jesus sends Simon and Matthew together on the search for Mary Magdalene. What might Jesus hope to accomplish by sending "a fox and a fish" on a mission together? 
+3. Why doesn't Jesus just "bring Mary back" (Ramah) or "make food appear out of thin air" (Thomas)? What do you think Mother Mary means when she says that our God is not like Thoth, who could be compelled to grant wishes through rituals?
+4. Question from Matthew:"What if you were cut off from Jesus by something in your past, wouldn't you want help getting back to Him as soon as possible?"
+5. When Simon and Matthew find Mary, she refuses to return with them. She says: "He already fixed me once... and I broke again. I can't face Him." What do you think Mary is experiencing emotionally and spiritually? Why does she find it so difficult to return to Jesus? How do Simon and Matthew respond?
+6. Mother Mary brings Magdalene to Jesus, who is praying in His tent. Mary confesses: *"I'm just so ashamed. You redeemed me, and I just threw it all away. [...] I owe you everything, but I just don't think I can do it. Live up to it. Repay you. How could I leave, how could I go back to the place I was? And I didn't even come back on my own. They had to come get me. I just can't live up to it."* What do you think lies behind Mary's shame? What is she struggling to understand about redemption, grace, and her relationship with Jesus? How does Jesus respond, and what does His response reveal about how He sees her?
+7. The episode explores several encounters with the law and its violations: Mary runs away, Jesus heals on the Sabbath, and the disciples pluck grain on the Sabbath. How does Jesus respond in each situation? What do these encounters reveal about His understanding of the law, His priorities, and His identity?
 
 ## :thought_balloon: Food for thought {#sec-thought}
-1. What might be moving 
-
-
+1. When you find yourself in a difficult situation, what tends to keep you from turning to Jesus?
+2. Mary brags about her win and answes brazenly to the old gambler, only to discover (almost immediately) how foolishly confident she was. Can you think of a time when your own pride, overconfidence, or poor judgment led you into trouble? What did that experience teach you about yourself?
+3. Did you note where Matthew got an idea to look at the underground bar (called The Nomad)? "I can't believe I made it up the stairs. Dionysus carried me". Remember what verse Matthew recites when walking down the stairs to The Nomad (and what Jesus told him before they went on the mission)?
+4. Thomas says "we're completely out of food" and Jesus replies "seems like something we should seek my Father about." What behavior is Jesus modeling for us here?
 
 ## :bookmark_tabs: Further reading {#sec-reading}
 - Ahimelech gives holy breads to David and his soldiers: [1 Samuel 21:1-9](https://www.bible.com/bible/59/1SA.21.1-9)
+- The passage quoted by Shmuel to Dinesh: [Psalm 19:7](https://www.bible.com/bible/59/PSA.19.7)
+- The Son of Man reference: [Daniel 7:9-14](https://www.bible.com/bible/59/DAN.7.9-14)
+- The reading at Wadi Qelt synagogue: [Deut 23:2-4](https://www.bible.com/bible/59/DEU.23.2-4)
+- Healing of the man with withered (shriveled) hand: [Matthew 12:9–14](https://www.bible.com/bible/59/MAT.12.9-14), [Mark 3:1–6](https://www.bible.com/bible/59/MRK.3.1-6), [Luke 6:6–11](https://www.bible.com/bible/59/LUK.6.6-11)
 
-:::{.callout-note}
-.
+:::{.callout-tip}
+## Modeh Ani 
+I am thankful before You, Lord our King for You have mercifully restored my soul within me. Great is Your faithfulness.
 :::
