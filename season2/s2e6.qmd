@@ -38,6 +38,7 @@ categories:
 - **Jesus** and his disciples
 - **Mary Magdalene**, the disciple, whom Jesus met (and delivered) at the bar in Capernaum.
 - **Mother Mary**, the mother of Jesus.
+- **Dunash**, **Yanni**, abd **Shmuel**, the pharisees in Jerusalem.
 - **Elam**, the man with withered hand healed by Jesus at Wadi Qelt sinagogue.
 - **Madai** and **Lamech**, pharisees at Wadi Qelt sinagogue.
 
