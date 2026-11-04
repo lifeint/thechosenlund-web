@@ -1,7 +1,7 @@
 ---
 title: "Episode 6"
 subtitle: "Unlawful"
-description: "I just want your heart"
+description: "Life is more sacred than bread"
 date: 2026-11-04
 image: img/s2e6.jpg
 categories:
@@ -32,6 +32,9 @@ categories:
 
 ## :performing_arts: Main characters {#sec-characters}
 
+
+- **Achimelech**, the high priest, and his son **Abiathar**
+- **David**, the newly annointed king of Israel, on the run from **Saul**.
 - **Jesus** and his disciples
 - **Mary Magdalene**, the disciple, whom Jesus met (and delivered) at the bar in Capernaum.
 - **Mother Mary**, the mother of Jesus.
@@ -89,7 +92,7 @@ In Jewish law (Halakha), an agunah (plural: agunot) literally translates to a "c
 - The Son of Man reference: [Daniel 7:9-14](https://www.bible.com/bible/59/DAN.7.9-14)
 - The reading at Wadi Qelt synagogue: [Deut 23:2-4](https://www.bible.com/bible/59/DEU.23.2-4)
 - Healing of the man with withered (shriveled) hand: [Matthew 12:9–14](https://www.bible.com/bible/59/MAT.12.9-14), [Mark 3:1–6](https://www.bible.com/bible/59/MRK.3.1-6), [Luke 6:6–11](https://www.bible.com/bible/59/LUK.6.6-11)
-
+- Achimelech-Abiathar [mystery](https://hermeneutics.stackexchange.com/questions/2955/was-abiathar-the-son-of-ahimelech-or-was-ahimelech-the-son-of-abiathar)
 :::{.callout-tip}
 ## Modeh Ani 
 I am thankful before You, Lord our King for You have mercifully restored my soul within me. Great is Your faithfulness.
