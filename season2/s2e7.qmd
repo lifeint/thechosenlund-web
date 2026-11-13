@@ -1,7 +1,7 @@
 ---
 title: "Episode 7"
 subtitle: "Reckoning"
-description: "."
+description: "Let's go"
 date: 2026-11-18
 image: img/s2e7.jpg
 categories:
@@ -12,8 +12,19 @@ categories:
 ## :book: Scripture {#sec-scripture}
 
 :::{.callout-note}
-### [Psalm 20:7](https://www.bible.com/bible/59/PSA.20.7)
+### [Matthew 6:9-13 ESV](https://www.bible.com/bible/59/MAT.6.9-13)
+| Pray then like this:
 | 
+| "Our Father in heaven,
+|    hallowed be your name.
+| Your kingdom come,
+|    your will be done,
+|    on earth as it is in heaven.
+| Give us this day our daily bread,
+|   and forgive us our debts,
+|   as we also have forgiven our debtors.
+| And lead us not into temptation,
+|   but deliver us from evil."
 :::
 
 [Download Bible App Here](https://www.bible.com/app)
@@ -21,7 +32,13 @@ categories:
 ## :performing_arts: Main characters {#sec-characters}
 
 - **Jesus** and his disciples
-
+- **Mother Mary** - the mother of Jesus, *eema*
+- **Shmuel** and **Yanni** - the pharisees from Jerusalem
+- **Yussif** - the pharisee from Capernium
+- **Quintus** - Praetor of Capernium
+- **Gaius** - Pimi Ordinae - roman officer
+- **Atticus Amelius** - Urbane Cohorte - roman spy
+- **Tamar** the Ethiophian and her friend, the **former paralytic**
 
 :::{.callout-warning appearance="simple" icon=false}
 :movie_camera: Watch the [Episode 7](https://watch.thechosen.tv/video/184683594359)
@@ -29,28 +46,42 @@ categories:
 
 ## :speech_balloon: Quotes {#sec-quotes}
 
-> He saved you to do all these things.
+> I saw a man who had not stood on his own two feet in half a century, bounding like a boy. I watched a martyr throw down his weapon and take a knee. I saw a lunatic's eyes go clear. Jesus of Nazareth did those things.
+
+> You must stop drawing attention to Jesus!!  
+> How can we not speak of what we have seen? How can you remain silent?
+
+> Did I not tell you that I would be back and to keep planning? You're all going to have to learn how to do this regardless of what's happening good or bad. Things are only going to get more difficult. You can't just shut down when you're fearful. And what are you going to do when I'm no longer here?
 
 
 :::{.callout-tip}
-Pikuach nefesh (Hebrew for "saving a soul" or "saving a life") is the supreme foundational principle in Halakha (Jewish law) stating that the preservation of human life overrides virtually any other religious rule, commandment (mitzvah), or restriction in Judaism.
+**Jotapata** is an archaeological site in the Northern District of Israel, known as a location of the Jewish War. Here, Flavius Josephus defended the fortress against the Romans in 67 CE. Excavations since 1992 have revealed a fortified city with houses, ritual baths, and a mansion with frescoes. Findings indicate a Jewish population engaged in agriculture and crafts. 
 :::
 
 ## :handshake: Discussion {#sec-discussion}
 1. As you watched this episode, which characters or moments stood out to you the most, and why? What was it about those scenes or people that captured your attention?
-2. 
-
+2. Atticus convinces Quintus to detain Jesus. On the way to Jotapata, he tells Gaius, "I am intrigued by your prey." What do you think is going on in Atticus's mind? What draws him to Jesus, and bothers him?
+3. Jesus prepares his disciples for the Sermon on the Mount. How does he explain the purpose of the sermon? Who is it intended for, and what does he hope to give those who come to hear him?
+4. Throughout the episode, we see a contrast between the disciples' expectations of the Messiah and who Jesus actually is. How do the disciples react when Jesus is detained? What had Jesus instructed them to do, and why do you think they struggle to follow his instructions?
+5. Andrew and Philip challenge Tamar and her healed friend when they speak publicly about Jesus. They seem to have different ideas about how Jesus' followers should respond to the growing attention and potential danger. Which perspective resonates more with you? 
+6. Jesus tells his disciples that they cannot simply shut down when they are afraid. What does he teach them about facing future challenges? How should Christians respond when the future is uncertain and circumstances are beyond their control?
 
 ## :thought_balloon: Food for thought {#sec-thought}
-1. When you find yourself in a difficult situation, what tends to keep you from turning to Jesus?
-2. 
+1. When Jesus is detained, the disciples panic. They blame one another, argue and consider drastic measures. How do you typically respond when you find yourself in a stressful or uncertain situation? 
+2. On his return from Capernaum, Jesus takes time to pray rather than rushing straight back to the camp and the waiting disciples. What does this moment teach you about Jesus' priorities? 
+3. How do you balance the desire to share your faith with the need for wisdom and discernment?
 
 ## :bookmark_tabs: Further reading {#sec-reading}
-- Ahimelech gives holy breads to David and his soldiers: [1 Samuel 21:1-9](https://www.bible.com/bible/59/1SA.21.1-9)
-- 
+- The Lord's Prayer: [Matthew 6:9-13](https://www.bible.com/bible/59/MAT.6.9-13); [Luke 11:2-4](https://www.bible.com/bible/59/LUK.11.2-4); [Didache](https://legacyicons.com/content/didache.pdf)
+- David's Prayer: [1 Chronicles 29:10-13](https://www.bible.com/bible/59/1CH.29.10-13)
 
 
 :::{.callout-tip}
-## Modeh Ani - Morning Prayer
-I am thankful before You, Lord our King for You have mercifully restored my soul within me. Great is Your faithfulness.
+## Amidah (Shemoneh Esrei) 
+Blessed are You Lord, the Holy King. You graciously bestow knowledge upon man and teach mortals understanding. Graciously bestow upon us from You, wisdom, understanding and knowledge. Blessed are You Lord, who graciously bestows knowledge. Cause us to return, our Father, to Your Torah; draw us near, our King, to Your service; and bring us back to You in whole-hearted repentance. Blessed are You Lord, who desires penitence. Pardon us, our Father, for we have sinned; forgive us, our King, for we have transgressed; for You are a good and forgiving God. Blessed are You Lord, gracious One who pardons abundantly. O behold our affliction and wage our battle; redeem us speedily for the sake of Your Name, for You God are the mighty redeemer. Blessed are You Lord, Redeemer of Israel. Heal us, O Lord, and we will be healed; help us and we will be saved; for You are our praise. Grant complete cure and healing to all our wounds; for You, Almighty King, are a faithful and merciful healer. Blessed are You Lord, who heals the sick of His people Israel.
+:::
+
+:::{.callout-tip}
+## Amidah (Hashivah Shofteinu)
+Restore our judges as in former times, and our counsellors as of yore; remove from us sorrow and sighing, and reign over us, You alone, O Lord, with kindness and compassion, with righteousness and justice. Blessed are You Lord, King of judgment.
 :::
