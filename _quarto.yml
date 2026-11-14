@@ -17,21 +17,16 @@ website:
         href: season1/index.qmd
       - text: "Season 2"
         href: season2/index.qmd
+      - text: "Season 3"
+        href: season3/index.qmd
       - about.qmd
   sidebar: 
     - title: "Season 1"
       contents: season1/
     - title: "Season 2"
-      contents: 
-        - season2/index.qmd
-        - season2/s2e1.qmd
-        - season2/s2e2.qmd
-        - season2/s2e3.qmd
-        - season2/s2e4.qmd
-        - season2/s2e5.qmd
-        - season2/s2e6.qmd
-        - season2/s2e7.qmd
-        - season2/s2e8.qmd
+      contents: season2/
+    - title: "Season 3"
+      contents: season3/
   page-footer: 
     left: |
       Equmentical project of 
