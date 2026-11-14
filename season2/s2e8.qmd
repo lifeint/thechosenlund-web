@@ -12,8 +12,14 @@ categories:
 ## :book: Scripture {#sec-scripture}
 
 :::{.callout-note}
-### [Matthew 6:9-13 ESV](https://www.bible.com/bible/59/MAT.6.9-13)
-| 
+### [Psalm 139:15-16 ESV](https://www.bible.com/bible/59/PSA.139.15-16)
+|   My frame was not hidden from you,
+| when I was being made in secret,
+| intricately woven in the depths of the earth.
+|    Your eyes saw my unformed substance;
+| in your book were written, every one of them,
+| the days that were formed for me,
+|  when as yet there was none of them.
 :::
 
 [Download Bible App Here](https://www.bible.com/app)
@@ -21,7 +27,12 @@ categories:
 ## :performing_arts: Main characters {#sec-characters}
 
 - **Jesus** and his disciples
-
+- **Mother Mary** the mother of Jesus
+- **Businessman** and his apprentice **Judas**
+- **Shmuel** and **Yanni** - the pharisees from Jerusalem
+- **Shammai** - the leader of the party in Sanhedrin
+- **Tamar** the ethiopian woman preaching about Jesus
+- **Barnaby** and **Shula** - followers of Jesus from Capernaum
 
 :::{.callout-warning appearance="simple" icon=false}
 :movie_camera: Watch the [Episode 7](https://watch.thechosen.tv/video/184683594360)
@@ -29,13 +40,29 @@ categories:
 
 ## :speech_balloon: Quotes {#sec-quotes}
 
-> I saw a man who had not stood on his own two feet in half a century, bounding like a boy. I watched a martyr throw down his weapon and take a knee. I saw a lunatic's eyes go clear. Jesus of Nazareth did those things.
+> They all love our Rabbi and want to follow Him the right way. They just can't agree on what that right way is.
 
+> What I need is a life I can be proud of! Don't you want to do something that will really matter, that will be remembered throughout history?
 
+> It's like He already knows the place, hmm?  
+> Yeah... we just have to find it.
 
+> I'm here to start a revolution.  
+> I said revolution... not revolt.
 
 :::{.callout-tip}
-**Jotapata** 
+**Reuben** was the first of the six sons of Jacob and Leah, according to the Book of Genesis. He was a disappointment to Jacob and lost the pre-eminent position which should have been his as Jacob's firstborn. He was the founder of the Israelite Tribe of Reuben. [Wiki](https://en.wikipedia.org/wiki/Reuben_(son_of_Jacob))
+
+**Simeon** was the second of the six sons of Jacob and Leah, and the founder of the Israelite tribe of Simeon. Simeon is absent from some of the passages in the Bible which list the other tribes, and some scholars think that it was not initially regarded as a distinct tribe. The Blessing of Moses, before his death, had omitted the Tribe of Simeon because Jacob had castigated him, Genesis 49:5-7, and because of the affair of Baal-peor. [Wiki](https://en.wikipedia.org/wiki/Simeon_(son_of_Jacob))
+:::
+
+:::{.callout-tip}
+The division between the School of Hillel (Beit Hillel, led by Hillel and later his son Shimon) and the School of Shammai (Beit Shammai) in the Sanhedrin was a foundational 1st-century BCE to 1st-century CE ideological split over Jewish law (Halakha), ethics, and Roman relations.  
+
+- *School of Hillel*: Known for a moderate, flexible, and compassionate approach to Torah interpretation, emphasizing human welfare, humility, and social harmony. 
+- *School of Shammai*: Known for a strict, stern, and uncompromising approach, prioritizing rigid textual adherence and intense patriotic/anti-Roman separation.
+
+ The Talmud records over 300 major disputes between the two houses covering ritual purity, marriage, divorce, and holiday observances
 :::
 
 ## :handshake: Discussion {#sec-discussion}
@@ -46,18 +73,24 @@ categories:
 5. In the episode, Jesus makes the Beatitudes personal by connecting each one to the lives and experiences of his disciples. Read Matthew 5:1–12 again. Which of the Beatitudes resonates with you most? Which do you find the most challenging to live out? Why?
 6. When speaking with his mother, Jesus repeats her words from Cana: "If not now, then when?" What makes the Sermon on the Mount such a defining teaching of Christianity, and why has its message continued to resonate across centuries and cultures?
 
-
 ## :thought_balloon: Food for thought {#sec-thought}
 1. Judas's business partner often acts as the voice of reason. He is pragmatic about opportunities to get ahead in life and justifies his decisions by appealing to necessity and common sense, while Judas seems more idealistic. Whose perspective do you find yourself agreeing with more?
-2. Jesus thinks about each of his disciples individually. What does Jesus know about you that perhaps no one else does?
-3. In this episode, Jesus describes the Beatitudes as a map to finding him. If others were to look at your life, which of the Beatitudes would they recognize in you? 
+2. Mary is still dwelling on her recent fall. She says, "I need more words. More tools. I can't let it happen again." What advice does Ramah give her? What would you say to Mary?
+3. Jesus thinks about each of his disciples individually. What does Jesus know about you that perhaps no one else does?
+4. Jesus is moved when he sees his disciples going out to neighboring towns, distributing handwritten notices and spreading the word about the coming sermon. What does his reaction tell us about how Jesus views [the great comission](https://www.bible.com/bible/59/MAT.28.18-20)?
+5. In this episode, Jesus describes the Beatitudes as a map to finding him. If others were to look at your life, which of the Beatitudes would they recognize in you? 
 
 ## :bookmark_tabs: Further reading {#sec-reading}
-- The Lord's Prayer: [Matthew 6:9-13](https://www.bible.com/bible/59/MAT.6.9-13); [Luke 11:2-4](https://www.bible.com/bible/59/LUK.11.2-4); [Didache](https://legacyicons.com/content/didache.pdf)
-
-
+- The Sermon on the Mount: [Matthew 5-7](https://www.bible.com/bible/59/MAT.5); Sermon on the Plain: [Luke 6:17-49](https://www.bible.com/bible/59/LUK.6.17-49)
+- Sermon on the mount on the [BibleProject](https://bibleproject.com/guides/introduction-to-the-sermon-on-the-mount/)
+- Matthew's comment about the meaning of [salting the earth](https://en.wikipedia.org/wiki/Salting_the_earth)
 
 :::{.callout-tip}
-## Amidah (Shemoneh Esrei) 
-Blessed are You Lord, the Holy King. 
+## Netilat Yadayim (ritual hand-washing)
+Blessed are you, Lord our God, King of the universe, who has sanctified us with His commandments, and commanded us concerning the washing of the hands.
+:::
+
+:::{.callout-tip}
+## Ha'etz (The blessing before eating fruits) 
+Blessed are You, Lord our God, Ruler of the universe, who creates the fruit of the tree.
 :::
