@@ -1,15 +1,8 @@
 [
   {
-    "listing": "/season1/index.html",
+    "listing": "/season3/index.html",
     "items": [
-      "/season1/s1e8.html",
-      "/season1/s1e7.html",
-      "/season1/s1e6.html",
-      "/season1/s1e5.html",
-      "/season1/s1e4.html",
-      "/season1/s1e3.html",
-      "/season1/s1e2.html",
-      "/season1/s1e1.html"
+      "/season3/s3e1.html"
     ]
   },
   {
@@ -26,9 +19,16 @@
     ]
   },
   {
-    "listing": "/season3/index.html",
+    "listing": "/season1/index.html",
     "items": [
-      "/season3/s3e1.html"
+      "/season1/s1e8.html",
+      "/season1/s1e7.html",
+      "/season1/s1e6.html",
+      "/season1/s1e5.html",
+      "/season1/s1e4.html",
+      "/season1/s1e3.html",
+      "/season1/s1e2.html",
+      "/season1/s1e1.html"
     ]
   }
 ]
