@@ -1,0 +1,10 @@
+---
+title: "Season 3"
+listing:
+  contents: /s3*.qmd
+  sort: "name desc"
+  type: default
+  categories: true
+---
+
+Welcome to the third season of The Chosen 
